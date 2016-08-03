@@ -1,0 +1,192 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+* {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	max-width: 600px;
+	font: 300 14.5px/1.2 'Gotham SSm A', 'Gotham SSm B', "Helvetica Neue", sans-serif;
+	color: #444;
+	margin: 100px 12%;
+	padding: 0 20px;
+}
+
+h3 {
+	display: block;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 15px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #8C8C8C;
+	font-weight: 300;
+	margin-bottom: 10px;
+}
+
+ul,
+ol {
+	margin: 0 0 8px;
+	padding: 0;
+	list-style-type: none;
+}
+
+ul li,
+ol li {
+	margin-bottom: 12px;
+}
+
+a {
+	font-weight: 600;
+	color: #191919;
+	text-decoration: none;
+	border-bottom: 1px solid transparent;
+	padding-bottom: 1px;
+	font-style: normal!important;
+	transition: .3s ease;
+	-webkit-transition: .3s ease;
+	-moz-transition: .3s ease;
+}
+
+a:hover {
+	color: #191919;
+	border-color: #D8D8D8;
+	transition: .3s ease;
+	-webkit-transition: .3s ease;
+	-moz-transition: .3s ease;
+}
+
+#content {
+	margin: 25px 0;
+}
+
+.logo {
+	display: block;
+	margin-bottom: 25px;
+}
+
+.logo img {
+	width: 50px;
+	height: auto;
+}
+
+h1 {
+	font-size: 15px;
+	font-weight: 600;
+	margin-bottom: 5px;
+	color: #191919;
+}
+
+h2 {
+	font-weight: 200;
+	color: #c1c1c1;
+	font-size: 15px;
+	margin-bottom: 45px;
+	font-style: italic;
+}
+
+ul li {
+	color: #c1c1c1;
+	font-style: italic;
+}
+
+ul {
+	margin-bottom: 25px;
+}
